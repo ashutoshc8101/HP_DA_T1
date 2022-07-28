@@ -1,6 +1,10 @@
 # SEC Filings Analyzer
 SEC Filings analyzer
 
+Project Report: https://drive.google.com/file/d/16oF0Zo-uoYgd79V-LBtAC-5oXRHcGdpF/view?usp=sharing
+
+Presentation: https://drive.google.com/file/d/1noOJ1HqQPaipT2CfKVjn8csdquX-t3Ox/view?usp=sharing
+
 ## Prerequisites
 Install Node.js which includes Node Package Manager
 
